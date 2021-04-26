@@ -2,7 +2,8 @@
 HYU ITE4053 딥러닝및응용
 
 ## 실습 환경
-python tenserflow 1.13.1버전 사용
+* google colaboratory
+* python tenserflow 1.13.1버전
 
 ### 2_configure_and_basic
 Learn basic of ternsorflow: constant, placeholder, Variable, MNIST data
