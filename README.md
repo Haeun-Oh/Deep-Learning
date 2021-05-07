@@ -28,3 +28,6 @@ Implement
  * AutoEncoder Model
  * Stacked AutoEncoder Model
  * Denoising AutoEncoder Model
+
+### 9_Check_Point
+Implement check point on MNIST data classifier model
