@@ -22,3 +22,9 @@ Implement MNIST data classifier model using multi layer perceptron
 Implement MNIST data clasiifier model
   * using SGD Optimizer
   * using Adam Optimizer and Dropout
+
+### 7_AutoEncoder
+Implement
+ * AutoEncoder Model
+ * Stacked AutoEncoder Model
+ * Denoising AutoEncoder Model
