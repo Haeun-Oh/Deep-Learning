@@ -31,3 +31,6 @@ Implement
 
 ### 9_Check_Point
 Implement check point on MNIST data classifier model
+
+### 10_CNN_MNIST_Classifier
+Implement CNN MNIST data Classifier
