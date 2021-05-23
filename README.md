@@ -34,3 +34,6 @@ Implement check point on MNIST data classifier model
 
 ### 10_CNN_MNIST_Classifier
 Implement CNN MNIST data Classifier
+
+### 11_character_sequence_RNN
+When you put "if you want yo" into input (x_data), let "f you want you" come out.
