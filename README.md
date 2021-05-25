@@ -23,7 +23,7 @@ Implement MNIST data clasiifier model
   * using SGD Optimizer
   * using Adam Optimizer and Dropout
 
-### 7_AutoEncoder
+### 7. AutoEncoder
 Implement
  * AutoEncoder Model
  * Stacked AutoEncoder Model
@@ -35,5 +35,8 @@ Implement check point on MNIST data classifier model
 ### 10_CNN_MNIST_Classifier
 Implement CNN MNIST data Classifier
 
-### 11_character_sequence_RNN
-When you put "if you want yo" into input (x_data), let "f you want you" come out.
+### 11. RNN
+ * 11_RNN_Basics
+    
+ * 11_character_sequence_RNN
+   When you put "if you want yo" into input (x_data), let "f you want you" come out.
